@@ -1,25 +1,38 @@
-.fixed-header {
-    width: 100%;
-    position: fixed;        
-    background:#3232ff;
-    padding: 10px 0;
-    color: #fff;
-}
-
-h1 {
-    color:orange;
-    float: left;
-    font-size: 45px;
-    margin-top: 28px;
-    margin-left: 20px;
-    font-family: 'Montserrat', sans-serif;
-}
-.fixed-header {
-    top: 0;
-}
-
 .container {
     width: 80%;
     margin: 0 auto;
     background-color:rgb(205,201,201);
+}
+
+h1 {
+    font-size: 65px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 100px;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+h2 {
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.discordlink {
+    font-size: 35px;
+    margin-top: 0px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 5px;
+    text-align: center;
 }
